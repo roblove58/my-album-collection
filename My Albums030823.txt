@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang en-us>
+  <head>
+    <meta charset="utf-8" />
+    <title>My Album Collection</title>
+    <meta name="viewpoint" content="width=device-width" />
+  </head>
+  <style>
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h1{color:rgb(63, 34, 70);
+    text-align: center;}
+    h2{
+      font-size: 20px;
+      text-align:center;
+      background-color:rgb(110, 186, 112);}  
+    h3{
+      text-align:center;
+    }
+  </style>
+ 
+  <body>
+  
+    <body style= "background-color:rgb(221,212,106);"> 
+
+
+    <h1>My Album Collection</h1>
+    <img src= "jazz-saxophone-painting.jpg" alt="pic of a sax" 
+    style="width:200px;height:250px">
+    <h2 style= "font-family: san-serif"> Robert Love</h2>
+    <p style="text-align: center">
+      This is my <b>Jazz</b> album collection of Hard-bop artists.
+    </p>
+   
+    <pre> 
+    <h3>
+      <img src="S Bechet.jpg" alt="photo of SB" Style="width:160px;height:180px;">
+       Sidney Bechet
+      "Bechet of New Orleans" 1932-1942<br><hr>
+      <img src="Clifford_Brown_1956.jpg" alt="photo of CS" Style="width:160px;height:180px;">
+      Clifford Brown
+      "The Clifford Brown Quartet in Paris"  1953 / Prestige<br><hr>
+      <img src="ornette.jpg" alt="photo of OC" Style="width:160px;height:180px;">
+      Ornette Coleman
+      "The Shape of Jazz to Come"  1959 / WaxTime<br><hr>
+      <img src="Alice C.jpg" alt="photo of AC" Style="width:160px;height:180px;">
+      Alice Coltrane
+      "Ptah The El Daoud"  1970 / Verve<br><hr>
+      <img src="J Coltrane.jpg" alt="photo of JC" Style="width:160px;height:180px;">
+      John Coltrane
+      "Blue Train"  1957 / Ermitage
+      "A Love Supreme"  1965 / Impulse
+      "Giant Steps"  1960 / Atlantic 
+      "Ole"  1961 / WaxTime<br><hr>
+      <img src="miles d.jpg" alt="pic of MD" Style="width:160px;height:180px;">
+      Miles Davis
+      "Kind of Blue"  1959 / Columbia<br><hr>
+      <img src="RG.jpg" alt="pic of RG" alt="width:80px;height:180px;">
+      Red Garland
+      "High Pressue"  1957 / Sowing<br><hr>
+      <img src="Coleman_Hawkins.jpg__35399.jpeg" alt="pic of CH" Style="width:120px;height:180px;">
+      Coleman Hawkins 
+      "Sirius"  1966 / Pablo<br><hr>
+      <img src="0000489845_Milt_Jackson_3.jpg" alt="Photo of MJ" Style="width:160px;height:180px;">
+      Milt Jackson & John Coltrane
+      "Bags and Trane"  1961 / Atlantic<br><hr>
+      <img src="James P Johnson 1943-1944008.jpg" alt="pic of JPJ" Style="width:160px;height:180px;">
+      James P Johnson
+      "Rare Performances"<br><hr>
+      <img src="elvin-jones-09.jpg" alt="pic of EJ" Style="width:160px;height:180px;">
+      Elvin Jones
+      "Mr Jones"  1972 Blue Note
+      "The Ultimate Elvin Jones"  1968 / Blue Note<br><hr>
+      <img src="G Green.jpg" alt="pic of GG" Style="width:160px;height:180px;">
+      Grant Green
+      "Idle Moments"  1963 / DOL<br><hr>
+      <img src="charles-mingus-circa-1970s-everett.jpg" alt="pic of CM" Style="width:160px;height:180px;">
+      Charles Mingus
+      "Mingus Ah Um"  1959 / DOL<br><hr>
+      <img src="Monk.jpg" alt="pic of Monk" Style="width:160px;height:18-px;">
+      Thelonious Monk 
+      "Genius of Mordern Music Volume 1"  1956 / Blue Note
+      "Undergroung"  1968 / Columbia
+      "w/ John Coltrane"  1957 / Sound Factory
+      "Monk's Dream"  1962 / DOL
+      "Palo Alto"  1968 / Impulse
+      "The Classic Quartet"  1963 / Candid<br><hr>
+      <img src="R.jpg" alt="pic of WM" Style="width:160px;height:180px;">
+      Wes Montgomery
+      "Road Song"  1968 / A&M<br><hr>
+      <img src="lee m.jpg" alt="pic of LM" Style="width:160;height:180px;">
+      Lee Morgan
+      "Here's Lee Morgan"  1960 / Vee Jay
+      "Taru"  1968 / Blue Note<br><hr>
+      <img src="pharaoh.jpeg" alt="pic of PS" Style="width:160px;height:180px;"">
+      Pharoah Sanders
+      "Live at Antibes Jazz Festival"  1968
+      "Karma"  1969
+      "Love In Us All"  1974 / Impulse<br><hr>
+      <img src="silver.jpg" alt="pic of HS" Style="width:160px;height:180px;">
+      Horace Silver
+      "Song For My Father"  1964 / Blue Note<br><hr>
+      <img src="jimmy smith.jpg" alt="pic of JS" Style="width:160px;height:180px;">
+      Jimmy Smith
+      "Respect"  1967 / Verve
+      "Back To The Chicken Shack" 1968 / Blue Note<br><hr>
+      <img src="Tatum.jpg""pic of AT" Style="width:160px;height:180px;">
+      Art Tatum
+      "The Only and Only"<br><hr>
+      <img src="tyner.jpg" alt="pic of MT" Style="width:160px;height:180px;">
+      McCoy Tyner
+      "Expansions"  1968 / Blue Note
+      "Fly With The Wind"  1976 / Milestone<br><hr>
+      <img src="lester.jpg" alt="pic of LY" Style="width:160px;height:180px;">
+      Lester Young 
+      "Pres"  1956 / Pablo<hr>
+      </h3>
+      </pre>
+      <footer>©2023 Robert Love </footer>
+  </body>
+</html>
